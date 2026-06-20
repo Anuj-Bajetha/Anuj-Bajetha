@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm **Anuj Bajetha**, a passionate **Computer Science student**.<br/>
-💻 Aspiring **Front-End Developer** focused on building modern, user-friendly web applications.<br/>
+💻 Aspiring **Full-Stack Developer** focused on building modern, user-friendly web applications.<br/>
 🚀 Experienced in creating practical projects that solve real-world problems.<br/>
 🧠 Currently strengthening my skills in **Data Structures & Algorithms**.<br/>
 🌱 Always learning new technologies and improving my problem-solving abilities.<br/>
