@@ -1,5 +1,15 @@
 # 💫 About Me:
-"My Name is Anuj Bajetha I’m a passionate Computer Science student focused on Front-End Development, with hands-on experience in building practical applications. I’m driven by creating efficient, user-friendly solutions and constantly learning new technologies.<br>“I’m an aspiring software developer specializing in Front-End Development, with a strong foundation in programming and real-world project experience. I’m focused on building impactful applications and growing into a skilled tech professional.”<br>“I’m currently working on developing scalable web applications while improving my problem-solving skills through consistent practice of data structures and algorithms.”<br>“I’m looking to collaborate on innovative tech projects that focus on solving real-life problems using modern development tools.”<br>“I’m looking for guidance in building scalable applications and understanding real-world industry practices.”<br>“I’m currently learning data structures and algorithms to strengthen my problem-solving abilities.”<br>“Ask me about my projects, problem-solving approach, or anything related to web development.”<br>“Fun fact: I enjoy turning ideas into real working projects more than just learning theory.”<br>“My goal is to continuously grow as a developer and stay updated with modern technologies.”<br>“I bring adaptability, teamwork, and a passion for building meaningful applications.”<br>“I’m driven by continuous learning and improving my skills every day.”<br>
+👋 Hi, I'm **Anuj Bajetha**, a passionate **Computer Science student**.<br/>
+💻 Aspiring **Front-End Developer** focused on building modern, user-friendly web applications.<br/>
+🚀 Experienced in creating practical projects that solve real-world problems.<br/>
+🧠 Currently strengthening my skills in **Data Structures & Algorithms**.<br/>
+🌱 Always learning new technologies and improving my problem-solving abilities.<br/>
+🤝 Open to collaborating on innovative tech projects with real-world impact.<br/>
+📚 Seeking guidance on scalable applications and industry best practices.<br/>
+💡 Ask me about web development, projects, or my development journey.<br/>
+⚡ Fun fact: I love turning ideas into working applications more than just studying theory.<br/>
+🎯 Goal: To grow into a skilled software developer through continuous learning and teamwork.<br/>
+
 
 
 ## 🌐 Socials:
